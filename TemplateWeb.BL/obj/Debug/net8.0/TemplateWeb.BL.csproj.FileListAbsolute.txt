@@ -1,0 +1,17 @@
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\bin\Debug\net8.0\TemplateWeb.BL.deps.json
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\bin\Debug\net8.0\TemplateWeb.BL.runtimeconfig.json
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\bin\Debug\net8.0\TemplateWeb.BL.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\bin\Debug\net8.0\TemplateWeb.BL.pdb
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\bin\Debug\net8.0\TemplateWeb.DAL.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\bin\Debug\net8.0\TemplateWeb.DAL.pdb
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.csproj.CopyComplete
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\refint\TemplateWeb.BL.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.pdb
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.genruntimeconfig.cache
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\ref\TemplateWeb.BL.dll

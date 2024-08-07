@@ -1,0 +1,14 @@
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\bin\Debug\net8.0\TemplateWeb.DAL.deps.json
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\bin\Debug\net8.0\TemplateWeb.DAL.runtimeconfig.json
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\bin\Debug\net8.0\TemplateWeb.DAL.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\bin\Debug\net8.0\TemplateWeb.DAL.pdb
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\TemplateWeb.DAL.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\TemplateWeb.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\TemplateWeb.DAL.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\TemplateWeb.DAL.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\TemplateWeb.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\TemplateWeb.DAL.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\refint\TemplateWeb.DAL.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\TemplateWeb.DAL.pdb
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\TemplateWeb.DAL.genruntimeconfig.cache
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\ref\TemplateWeb.DAL.dll
