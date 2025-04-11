@@ -12,3 +12,4 @@ C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\ref
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\TemplateWeb.DAL.pdb
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\TemplateWeb.DAL.genruntimeconfig.cache
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\ref\TemplateWeb.DAL.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.DAL\obj\Debug\net8.0\TemplateWeb.DAL.sourcelink.json

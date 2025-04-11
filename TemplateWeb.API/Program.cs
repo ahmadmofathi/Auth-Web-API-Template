@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using TemplateWeb.BL;
+using TemplateWeb.BL.Managers.Email;
 using TemplateWeb.DAL;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -22,7 +23,7 @@ builder.Services.AddCors(options =>
                 "http://localhost:4200",
                 "https://localhost:4200"
 
-                ).AllowAnyOrigin() // Allow any origin
+                )
             .AllowAnyMethod()
             .AllowAnyHeader()
             .SetIsOriginAllowedToAllowWildcardSubdomains();
@@ -42,6 +43,8 @@ builder.Services.AddSwaggerGen();
 #region Injection
 builder.Services.AddScoped<IUserRepo,UserRepo>();
 builder.Services.AddScoped<IUserManager, UserManager>();
+builder.Services.AddScoped<IEmailService, EmailService>();
+builder.Services.AddScoped<ILogUserLogin, LogUserlogin>();
 #endregion
 
 //JWT Auth
@@ -67,6 +70,9 @@ builder.Services.AddAuthentication(options =>
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString));
 
+//builder.Services.AddDbContext<AppDbContext>(options =>
+//    options.UseLazyLoadingProxies()
+//           .UseSqlServer(connectionString));
 
 var app = builder.Build();
 

@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.bl\\managers\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|solutionrelative:templateweb.bl\\managers\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18CFC4B-4093-4FEE-B2AD-466E5F670308}|TemplateWeb.API\\TemplateWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18CFC4B-4093-4FEE-B2AD-466E5F670308}|TemplateWeb.API\\TemplateWeb.API.csproj|solutionrelative:templateweb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.dal\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|solutionrelative:templateweb.dal\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.dal\\repos\\user\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|solutionrelative:templateweb.dal\\repos\\user\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.dal\\repos\\user\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|solutionrelative:templateweb.dal\\repos\\user\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.bl\\managers\\user\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|solutionrelative:templateweb.bl\\managers\\user\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18CFC4B-4093-4FEE-B2AD-466E5F670308}|TemplateWeb.API\\TemplateWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18CFC4B-4093-4FEE-B2AD-466E5F670308}|TemplateWeb.API\\TemplateWeb.API.csproj|solutionrelative:templateweb.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.bl\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|solutionrelative:templateweb.bl\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.dal\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|solutionrelative:templateweb.dal\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18CFC4B-4093-4FEE-B2AD-466E5F670308}|TemplateWeb.API\\TemplateWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C18CFC4B-4093-4FEE-B2AD-466E5F670308}|TemplateWeb.API\\TemplateWeb.API.csproj|solutionrelative:templateweb.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.bl\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|solutionrelative:templateweb.bl\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.bl\\dtos\\auth\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|solutionrelative:templateweb.bl\\dtos\\auth\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.bl\\dtos\\user\\useradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|solutionrelative:templateweb.bl\\dtos\\user\\useradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Migrations\\20250411174609_initialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TemplateWeb.DAL\\Migrations\\20250411174609_initialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.bl\\dtos\\auth\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|solutionrelative:templateweb.bl\\dtos\\auth\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.bl\\dtos\\auth\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|solutionrelative:templateweb.bl\\dtos\\auth\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.bl\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|solutionrelative:templateweb.bl\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.dal\\repos\\loguserlogin\\iloguserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|solutionrelative:templateweb.dal\\repos\\loguserlogin\\iloguserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.dal\\data\\models\\ipapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|solutionrelative:templateweb.dal\\data\\models\\ipapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.dal\\data\\models\\userloginhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|solutionrelative:templateweb.dal\\data\\models\\userloginhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Migrations\\20250411173144_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TemplateWeb.DAL\\Migrations\\20250411173144_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmad\\AppData\\Roaming\\Microsoft\\UserSecrets\\4bb2405f-ea66-492a-a368-4125cbeb7524\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Migrations\\20250411173047_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TemplateWeb.DAL\\Migrations\\20250411173047_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18CFC4B-4093-4FEE-B2AD-466E5F670308}|TemplateWeb.API\\TemplateWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.api\\templateweb.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C18CFC4B-4093-4FEE-B2AD-466E5F670308}|TemplateWeb.API\\TemplateWeb.API.csproj|solutionrelative:templateweb.api\\templateweb.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18CFC4B-4093-4FEE-B2AD-466E5F670308}|TemplateWeb.API\\TemplateWeb.API.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.api\\templateweb.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C18CFC4B-4093-4FEE-B2AD-466E5F670308}|TemplateWeb.API\\TemplateWeb.API.csproj|solutionrelative:templateweb.api\\templateweb.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.dal\\repos\\loguserlogin\\loguserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|solutionrelative:templateweb.dal\\repos\\loguserlogin\\loguserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.bl\\managers\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|solutionrelative:templateweb.bl\\managers\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.bl\\managers\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6730A61-6F8B-4DD4-B0EE-3E32D9A6F378}|TemplateWeb.BL\\TemplateWeb.BL.csproj|solutionrelative:templateweb.bl\\managers\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|c:\\users\\ahmad\\source\\repos\\templateweb.api\\templateweb.dal\\migrations\\20250411180047_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE1657-9EEB-4430-836D-D6AEE47B94C1}|TemplateWeb.DAL\\TemplateWeb.DAL.csproj|solutionrelative:templateweb.dal\\migrations\\20250411180047_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.DAL\\Data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "TemplateWeb.DAL\\Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:56:50.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TemplateWeb.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.API\\appsettings.json",
+              "RelativeToolTip": "TemplateWeb.API\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T15:55:55.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\Auth\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.BL\\DTOs\\Auth\\TokenDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\Auth\\TokenDTO.cs",
+              "RelativeToolTip": "TemplateWeb.BL\\DTOs\\Auth\\TokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:40:36.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Repos\\User\\UserRepo.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.DAL\\Repos\\User\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Repos\\User\\UserRepo.cs",
+              "RelativeToolTip": "TemplateWeb.DAL\\Repos\\User\\UserRepo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:59:54.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TemplateWeb.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAqwLgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:35:03.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\Managers\\User\\UserManager.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.BL\\Managers\\User\\UserManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\Managers\\User\\UserManager.cs",
+              "RelativeToolTip": "TemplateWeb.BL\\Managers\\User\\UserManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwD8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:09:05.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\Managers\\User\\IUserManager.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.BL\\Managers\\User\\IUserManager.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\Managers\\User\\IUserManager.cs",
+              "RelativeToolTip": "TemplateWeb.BL\\Managers\\User\\IUserManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:08:11.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.BL\\DTOs\\User\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\User\\UserDTO.cs",
+              "RelativeToolTip": "TemplateWeb.BL\\DTOs\\User\\UserDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:07:00.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Repos\\User\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.DAL\\Repos\\User\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Repos\\User\\IUserRepo.cs",
+              "RelativeToolTip": "TemplateWeb.DAL\\Repos\\User\\IUserRepo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:58:43.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.API\\Program.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.API\\Program.cs",
+              "RelativeToolTip": "TemplateWeb.API\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowC4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:35:11.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.BL\\DTOs\\Auth\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeToolTip": "TemplateWeb.BL\\DTOs\\Auth\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:23:05.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.DAL\\Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Data\\Models\\User.cs",
+              "RelativeToolTip": "TemplateWeb.DAL\\Data\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:48:59.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.BL\\DTOs\\Auth\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeToolTip": "TemplateWeb.BL\\DTOs\\Auth\\RegisterDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:25:07.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250411174609_initialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Migrations\\20250411174609_initialCreate1.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.DAL\\Migrations\\20250411174609_initialCreate1.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Migrations\\20250411174609_initialCreate1.cs",
+              "RelativeToolTip": "TemplateWeb.DAL\\Migrations\\20250411174609_initialCreate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:46:10.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250411180047_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Migrations\\20250411180047_initialCreate.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.DAL\\Migrations\\20250411180047_initialCreate.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Migrations\\20250411180047_initialCreate.cs",
+              "RelativeToolTip": "TemplateWeb.DAL\\Migrations\\20250411180047_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:00:47.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\User\\UserAddDTO.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.BL\\DTOs\\User\\UserAddDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\User\\UserAddDTO.cs",
+              "RelativeToolTip": "TemplateWeb.BL\\DTOs\\User\\UserAddDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:04:57.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgotPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\Auth\\ForgotPasswordDTO.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.BL\\DTOs\\Auth\\ForgotPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\Auth\\ForgotPasswordDTO.cs",
+              "RelativeToolTip": "TemplateWeb.BL\\DTOs\\Auth\\ForgotPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:06:59.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\Auth\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.BL\\DTOs\\Auth\\ResetPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\DTOs\\Auth\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "TemplateWeb.BL\\DTOs\\Auth\\ResetPasswordDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvwsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:09:28.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILogUserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Repos\\LogUserLogin\\ILogUserLogin.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.DAL\\Repos\\LogUserLogin\\ILogUserLogin.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Repos\\LogUserLogin\\ILogUserLogin.cs",
+              "RelativeToolTip": "TemplateWeb.DAL\\Repos\\LogUserLogin\\ILogUserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:28:19.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IpApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Data\\Models\\IpApiResponse.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.DAL\\Data\\Models\\IpApiResponse.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Data\\Models\\IpApiResponse.cs",
+              "RelativeToolTip": "TemplateWeb.DAL\\Data\\Models\\IpApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:31:43.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserLoginHistory.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Data\\Models\\UserLoginHistory.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.DAL\\Data\\Models\\UserLoginHistory.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Data\\Models\\UserLoginHistory.cs",
+              "RelativeToolTip": "TemplateWeb.DAL\\Data\\Models\\UserLoginHistory.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:24:14.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\ahmad\\AppData\\Roaming\\Microsoft\\UserSecrets\\4bb2405f-ea66-492a-a368-4125cbeb7524\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\4bb2405f-ea66-492a-a368-4125cbeb7524\\secrets.json",
+              "ToolTip": "C:\\Users\\ahmad\\AppData\\Roaming\\Microsoft\\UserSecrets\\4bb2405f-ea66-492a-a368-4125cbeb7524\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\4bb2405f-ea66-492a-a368-4125cbeb7524\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T05:28:50.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TemplateWeb.API.http",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.API\\TemplateWeb.API.http",
+              "RelativeDocumentMoniker": "TemplateWeb.API\\TemplateWeb.API.http",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.API\\TemplateWeb.API.http",
+              "RelativeToolTip": "TemplateWeb.API\\TemplateWeb.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-11T17:02:17.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250411173047_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Migrations\\20250411173047_initialCreate.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.DAL\\Migrations\\20250411173047_initialCreate.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Migrations\\20250411173047_initialCreate.cs",
+              "RelativeToolTip": "TemplateWeb.DAL\\Migrations\\20250411173047_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:30:47.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250411173144_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Migrations\\20250411173144_initialCreate.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.DAL\\Migrations\\20250411173144_initialCreate.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Migrations\\20250411173144_initialCreate.cs",
+              "RelativeToolTip": "TemplateWeb.DAL\\Migrations\\20250411173144_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:31:44.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TemplateWeb.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.API\\TemplateWeb.API.csproj",
+              "RelativeDocumentMoniker": "TemplateWeb.API\\TemplateWeb.API.csproj",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.API\\TemplateWeb.API.csproj",
+              "RelativeToolTip": "TemplateWeb.API\\TemplateWeb.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T05:32:35.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LogUserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Repos\\LogUserLogin\\LogUserLogin.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.DAL\\Repos\\LogUserLogin\\LogUserLogin.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.DAL\\Repos\\LogUserLogin\\LogUserLogin.cs",
+              "RelativeToolTip": "TemplateWeb.DAL\\Repos\\LogUserLogin\\LogUserLogin.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:30:03.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\Managers\\Email\\EmailService.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.BL\\Managers\\Email\\EmailService.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\Managers\\Email\\EmailService.cs",
+              "RelativeToolTip": "TemplateWeb.BL\\Managers\\Email\\EmailService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:14:47.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\Managers\\Email\\IEmailService.cs",
+              "RelativeDocumentMoniker": "TemplateWeb.BL\\Managers\\Email\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\TemplateWeb.API\\TemplateWeb.BL\\Managers\\Email\\IEmailService.cs",
+              "RelativeToolTip": "TemplateWeb.BL\\Managers\\Email\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:13:22.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

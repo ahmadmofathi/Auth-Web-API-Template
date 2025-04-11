@@ -16,6 +16,6 @@ namespace TemplateWeb.BL
         public string phone { get; set; }
         public string address { get; set; }
         public string role { get; set; }  
-        public string birthday { get; set; }
+        public DateTime birthday { get; set; }
     }
 }

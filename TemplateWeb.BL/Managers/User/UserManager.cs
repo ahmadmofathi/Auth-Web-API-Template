@@ -12,14 +12,14 @@ namespace TemplateWeb.BL
     public class UserManager : IUserManager
     {
         private readonly IUserRepo _userRepo;
+        private readonly ILogUserLogin _logUserLogin;
 
-
-        public UserManager(IUserRepo userRepo)
+        public UserManager(IUserRepo userRepo, ILogUserLogin logUserLogin)
         {
             _userRepo = userRepo;
-
+            _logUserLogin = logUserLogin;
         }
-        public string AddUser(UserAddDTO user)
+        public async Task<UserAddDTO> AddUser(UserAddDTO user)
         {
             User userToAdd = new User
             {
@@ -31,29 +31,29 @@ namespace TemplateWeb.BL
                 PhoneNumber = user.phone,
                 UserName = user.username,
                 role = user.role,
-                creationDate = DateTime.Now.ToString(),
-                updatedDate = DateTime.Now.ToString(),
+                creationDate = DateTime.Now,
+                updatedDate = DateTime.Now,
             };
-            _userRepo.Add(userToAdd);
-            _userRepo.SaveChanges();
-            return "User: " + userToAdd.UserName + " is added successfully Id: " + userToAdd.Id;
+            await _userRepo.Add(userToAdd);
+            await _userRepo.SaveChanges();
+            return user;
         }
 
-        public bool DeleteUser(string id)
+        public async Task<bool> DeleteUser(string id)
         {
-            User? user = _userRepo.GetUserById(id);
+            User? user = await _userRepo.GetUserById(id);
             if (user == null)
             {
                 return false;
             }
-            _userRepo.Delete(user);
-            _userRepo.SaveChanges();
+            await _userRepo.Delete(user);
+            await _userRepo.SaveChanges();
             return true;
         }
 
-        public IEnumerable<UserDTO> GetAllUsers()
+        public async Task<IEnumerable<UserDTO>?> GetAllUsers()
         {
-            IEnumerable<User> usersFromDB = _userRepo.GetAllUsers();
+            IEnumerable<User> usersFromDB = await _userRepo.GetAllUsers();
             return usersFromDB.Select(user => new UserDTO
             {
                 UserID =user.Id,
@@ -69,9 +69,9 @@ namespace TemplateWeb.BL
             });
         }
 
-        public UserDTO? GetUserById(string id)
+        public async Task<UserDTO?> GetUserById(string id)
         {
-            User? user = _userRepo.GetUserById(id);
+            User? user = await _userRepo.GetUserById(id);
 
             return new UserDTO
             {
@@ -89,13 +89,13 @@ namespace TemplateWeb.BL
             };
         }
 
-        public bool UpdateUser(UserDTO user)
+        public async Task<bool> UpdateUser(UserDTO user)
         {
             if (user.UserID is null)
             {
                 return false;
             }
-            User? DBuser = _userRepo.GetUserById(user.UserID);
+            User? DBuser = await _userRepo.GetUserById(user.UserID);
             if (DBuser == null)
             {
                 return false;
@@ -108,9 +108,23 @@ namespace TemplateWeb.BL
             DBuser.PhoneNumber = user.phone;
             DBuser.birthday = user.birthday;
             DBuser.Email = user.email;
-            DBuser.updatedDate = DateTime.Now.ToString();
-            _userRepo.SaveChanges();
+            DBuser.updatedDate = DateTime.Now;
+            await _userRepo.SaveChanges();
             return true;
+        }
+
+
+
+
+
+        public async Task LogUserLogin(string userId, string? username, string ipAddress, string userAgent, bool isSuccess)
+        {
+            await _logUserLogin.LogUserLogin(userId, username, ipAddress, userAgent, isSuccess);
+        }
+
+        public async Task<IEnumerable<UserLoginHistory>> GetLoginHistoryByUserId(string userId)
+        {
+            return await _logUserLogin.GetLoginHistoryByUserId(userId);
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,39 +15,40 @@ namespace TemplateWeb.DAL
         {
             _context = context;
         }
-        public string Add(User user)
+        public async Task<string> Add(User user)
         {
             if (user.Id == null)
             {
                 return "Not Found";
             }
-            _context.Set<User>().Add(user);
+            await _context.Set<User>().AddAsync(user);
 
             return user.Id;
         }
 
-        public bool Delete(User user)
+        public async Task<bool> Delete(User user)
         {
             _context.Set<User>().Remove(user);
+            await _context.SaveChangesAsync();
             return true;
         }
 
-        public IEnumerable<User> GetAllUsers()
+        public async Task<IEnumerable<User>> GetAllUsers()
         {
-            return _context.Set<User>().ToList();
+            return await _context.Set<User>().ToListAsync();
         }
 
-        public User? GetUserById(string userId)
+        public async Task<User?> GetUserById(string userId)
         {
-            return _context.Set<User>().Find(userId);
+            return await _context.Set<User>().FindAsync(userId);
         }
 
-        public int SaveChanges()
+        public async Task<int> SaveChanges()
         {
-            return _context.SaveChanges();
+            return await _context.SaveChangesAsync();
         }
 
-        public bool Update(User user)
+        public async Task<bool> Update(User user)
         {
             throw new NotImplementedException();
         }

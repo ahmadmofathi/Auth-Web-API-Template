@@ -9,9 +9,10 @@ C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\Temp
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.AssemblyInfoInputs.cache
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.AssemblyInfo.cs
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.csproj.CoreCompileInputs.cache
-C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.csproj.CopyComplete
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.dll
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\refint\TemplateWeb.BL.dll
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.pdb
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.genruntimeconfig.cache
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\ref\TemplateWeb.BL.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\TemplateWeb.BL.sourcelink.json
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.BL\obj\Debug\net8.0\Template.59BC2135.Up2Date

@@ -55,7 +55,6 @@ C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\bin\Debug\net8.0\Sys
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -140,9 +139,17 @@ C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\sta
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TemplateWeb.API.props
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\scopedcss\bundle\TemplateWeb.API.styles.css
-C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\TemplateWeb.API.csproj.CopyComplete
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\TemplateWeb.API.dll
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\refint\TemplateWeb.API.dll
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\TemplateWeb.API.pdb
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\TemplateWeb.API.genruntimeconfig.cache
 C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\ref\TemplateWeb.API.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\bin\Debug\net8.0\TemplateWeb.API.staticwebassets.endpoints.json
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\bin\Debug\net8.0\UAParser.dll
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\TemplateWeb.API.sourcelink.json
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\staticwebassets\msbuild.TemplateWeb.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ahmad\source\repos\TemplateWeb.API\TemplateWeb.API\obj\Debug\net8.0\Template.BE095FF2.Up2Date

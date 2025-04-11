@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemplateWeb.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e91221d0cfbac791859427deaa0d487d480dc4b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemplateWeb.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemplateWeb.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

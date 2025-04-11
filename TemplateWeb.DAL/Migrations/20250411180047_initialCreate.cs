@@ -34,7 +34,9 @@ namespace TemplateWeb.DAL.Migrations
                     lastName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     address = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     role = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    birthday = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    birthday = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    creationDate = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    updatedDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     UserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     NormalizedUserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     Email = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
@@ -53,6 +55,28 @@ namespace TemplateWeb.DAL.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_AspNetUsers", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "LoginHistories",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    UserId = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Username = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    LoginTime = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    IPAddress = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    UserAgent = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    DeviceType = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Browser = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    OperatingSystem = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Location = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    IsSuccess = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_LoginHistories", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -218,6 +242,9 @@ namespace TemplateWeb.DAL.Migrations
 
             migrationBuilder.DropTable(
                 name: "AspNetUserTokens");
+
+            migrationBuilder.DropTable(
+                name: "LoginHistories");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoles");

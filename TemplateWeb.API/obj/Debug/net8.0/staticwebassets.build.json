@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "I/u+ORR5IyReYORKhGtXT4eWtWEPc2SaQaPYZA/ar28=",
+  "Hash": "YtUk7cvVNj6BjiQ367LTMiqhmeE1LFclZ8TSULBTLXI=",
   "Source": "TemplateWeb.API",
   "BasePath": "_content/TemplateWeb.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

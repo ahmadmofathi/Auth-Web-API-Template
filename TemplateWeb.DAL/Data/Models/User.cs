@@ -13,8 +13,8 @@ namespace TemplateWeb.DAL
         public string lastName { get; set; }
         public string address { get; set; }
         public string role { get; set; }
-        public string birthday { get; set; }
-        public string creationDate { get; set; }
-        public string updatedDate { get; set; }
+        public DateTime birthday { get; set; }
+        public DateTime creationDate { get; set; }
+        public DateTime updatedDate { get; set; }
     }
 }
